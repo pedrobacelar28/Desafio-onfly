@@ -134,8 +134,8 @@ raiz-do-projeto/
 ├─ docker-compose.yml
 ├─ .env
 ├─ README.md                
-└─ custom-random-node/     # pacote do custom node
-   ├─ package.json         # contém o bloco "n8n" que registra o node
+└─ custom-random-node/     
+   ├─ package.json         
    ├─ tsconfig.json
    ├─ src/
       ├─ Random.node.ts
