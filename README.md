@@ -53,11 +53,9 @@ git clone <URL_DO_REPO>
 docker compose up -d
 # opcional: ver status
 docker compose ps
-# acessar o editor via navegador
-# http://localhost:5678
+
 ```
 
-No primeiro acesso, crie o usuário **Owner** (credenciais locais).
 
 ---
 
